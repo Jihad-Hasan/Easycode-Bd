@@ -73,7 +73,7 @@ nav ul li a{
 
 /*----------Banner Start----------*/
 #banner{
-  background-image: url(./image/banner.png);
+  background-image: url(/image/banner.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom center;
